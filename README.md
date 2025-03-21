@@ -1,2 +1,1 @@
-# Elytra-fly-in-a-parabola
-It will change the way the elytra fly to suit some occasions
+It will change the way elytra fly to suit certain situations, which is useful when the viaversion plugin can't handle higher versions of elytra logic
