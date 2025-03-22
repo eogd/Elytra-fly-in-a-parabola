@@ -1,1 +1,1 @@
-It will change the way elytra fly to suit certain situations, which is useful when the viaversion plugin can't handle higher versions of elytra
+This is a relatively stable copy of my build, but maybe my code logic is causing his jet path to be inaccurate, and I need help
